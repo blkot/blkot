@@ -1,0 +1,114 @@
+[
+  {
+    "id": "a-commit",
+    "tier": 1,
+    "desc": "One of my commit sha starts with \"a\".",
+    "body": "- <a href=\"https://github.com/blkot/RecypeRetro/commit/a947e23aa61058b3c2bfbe414c7339f872d8afb7\"><strong>a</strong>947e23aa61058b3c2bfbe414c7339f872d8afb7</a>",
+    "image": "https://my-badges.github.io/my-badges/a-commit.png"
+  },
+  {
+    "id": "chore-commit",
+    "tier": 0,
+    "desc": "I did a little housekeeping! 🧹",
+    "body": "Commits:\n\n- <a href=\"https://github.com/tmt-claudine-ai/robo-car-remote-control/commit/7b9fa07abd490338723cb96382a33a3e62f119d7\">7b9fa07</a>: chore: track example ESP32 bridge config",
+    "image": "https://my-badges.github.io/my-badges/chore-commit.png"
+  },
+  {
+    "id": "covid-19",
+    "tier": 0,
+    "desc": "I rolled before Covid-19: Survivor of the Great TP Shortage",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/covid-19.png"
+  },
+  {
+    "id": "epic-commit",
+    "tier": 0,
+    "desc": "I made an epic commit with a message over 500 chars.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/blkot/ModeruBakappu/commit/ca82e923caffab12b5ae2440ad6a9f8ed4d1a891\">ca82e92</a>\n- <a href=\"https://github.com/blkot/GalleryDownloaderServer/commit/baebe9dcf9cc93a66184c8e3864a229023a83a15\">baebe9d</a>",
+    "image": "https://my-badges.github.io/my-badges/epic-commit.png"
+  },
+  {
+    "id": "favorite-word",
+    "tier": 0,
+    "desc": "My favorite word is \"add\".",
+    "body": "My favorite commit message words are:\n\n1. add (used 126 times)\n2. phase (used 89 times)\n3. claude (used 67 times)\n4. co-authored-by: (used 66 times)\n5. opus (used 66 times)",
+    "image": "https://my-badges.github.io/my-badges/favorite-word.png"
+  },
+  {
+    "id": "fix-2",
+    "tier": 1,
+    "desc": "I did 2 sequential fixes.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/blkot/itts_frontend/commit/8275afc4394068d0c9f1e981bd1e94407e0360be\">8275afc</a>: fix: persist audio progress ticker across route changes\n- <a href=\"https://github.com/blkot/itts_frontend/commit/3d36e7cdc3bd8d975176317bd0bc284519185f7a\">3d36e7c</a>: fix: remove upload selection cap and warn on large batches",
+    "image": "https://my-badges.github.io/my-badges/fix-2.png"
+  },
+  {
+    "id": "friday-13",
+    "tier": 0,
+    "desc": "I committed on Friday the 13th, One… By One…",
+    "body": "Commits:\n\n- <a href=\"https://github.com/blkot/Artifactory/commit/88278a6b3d2b55d195aa6688f335fe8254800683\">88278a6</a>\n- <a href=\"https://github.com/blkot/Artifactory/commit/471e3f8e5a7195fb9ceec22c3f07714967ba4d6b\">471e3f8</a>\n- <a href=\"https://github.com/blkot/Artifactory/commit/145a2ac296410816bf945dbca5799ed22a559890\">145a2ac</a>\n- <a href=\"https://github.com/blkot/Artifactory/commit/3ec0b5f71ae9c37508cc06a843c7d72f1dfe4f54\">3ec0b5f</a>\n- <a href=\"https://github.com/blkot/Artifactory/commit/fc93d44492bfb177443e8046a461e9f9cce53f23\">fc93d44</a>\n- <a href=\"https://github.com/blkot/Artifactory/commit/a5ab680e16696711fda048f670e25c6208de1df6\">a5ab680</a>\n- <a href=\"https://github.com/blkot/Artifactory/commit/cef1e6bc98d1a0f6b0c6f6d6c7cd800172090751\">cef1e6b</a>\n- <a href=\"https://github.com/blkot/Artifactory/commit/b5e2e0cb0f528a4373014b33d189c6b554f144ee\">b5e2e0c</a>\n- <a href=\"https://github.com/blkot/Artifactory/commit/3f4a6be96c5edbeeaf74410d24741d650d64b716\">3f4a6be</a>\n- <a href=\"https://github.com/blkot/Artifactory/commit/de847c71004b25169027a5ff179ca7942059eba8\">de847c7</a>\n- <a href=\"https://github.com/blkot/Artifactory/commit/3ba5a06edd1985a5e6533c7657c1ce57b472fa72\">3ba5a06</a>\n- <a href=\"https://github.com/blkot/Artifactory/commit/2b01a021e167ca18a1035e44291f14d7100175c8\">2b01a02</a>\n- <a href=\"https://github.com/blkot/Artifactory/commit/8022b483a0fce965e89661802096e6ac676a878e\">8022b48</a>",
+    "image": "https://my-badges.github.io/my-badges/friday-13.png"
+  },
+  {
+    "id": "github-anniversary-5",
+    "tier": 0,
+    "desc": "I joined GitHub 5 years ago.",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/github-anniversary-5.png"
+  },
+  {
+    "id": "github-anniversary-10",
+    "tier": 0,
+    "desc": "I joined GitHub 10 years ago.",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/github-anniversary-10.png"
+  },
+  {
+    "id": "mass-delete-commit",
+    "tier": 1,
+    "desc": "When I delete code, I delete a lot.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/blkot/GeojsonDataset/commit/1797012f171d303cf6ae668fd8f73f015a1b67e5\">1797012</a>",
+    "image": "https://my-badges.github.io/my-badges/mass-delete-commit.png"
+  },
+  {
+    "id": "mass-delete-commit-10k",
+    "tier": 2,
+    "desc": "When I delete code, I delete a lot.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/blkot/GeojsonDataset/commit/1797012f171d303cf6ae668fd8f73f015a1b67e5\">1797012</a>",
+    "image": "https://my-badges.github.io/my-badges/mass-delete-commit-10k.png"
+  },
+  {
+    "id": "polite-coder",
+    "tier": 0,
+    "desc": "I am a polite coder.",
+    "body": "I use words like \"thanks\" and \"please\" in my issues:\n\n- <a href=\"https://github.com/YebaiZhao/VRUVG_alpha/issues/1\">#1</a>: OffScreenIndicator Tricky Way to Support Vive with Visual Collimation\n- <a href=\"https://github.com/SillyTavern/SillyTavern/issues/3807\">#3807</a>: [BUG] <title>localization for endpoint example is giving wrong direction in other languages",
+    "image": "https://my-badges.github.io/my-badges/polite-coder.png"
+  },
+  {
+    "id": "public-keys-4",
+    "tier": 4,
+    "desc": "I have four public keys",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/public-keys-4.png"
+  },
+  {
+    "id": "sleepy-coder",
+    "tier": 0,
+    "desc": "I am a sleepy coder.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/blkot/Artifactory/commit/b440ac2cecdaf88cf64c34ffd3ff58a7d8ccb6a0\">b440ac2</a>\n- <a href=\"https://github.com/blkot/Artifactory/commit/e00dac02e8bb47c91d85096916ac671d2fbc50e5\">e00dac0</a>\n- <a href=\"https://github.com/blkot/Artifactory/commit/706d8251989ccccb5fbd1b9657f189c59bf8e56f\">706d825</a>\n- <a href=\"https://github.com/blkot/Artifactory/commit/366f1a7e982bd6332bce240eafefa1fe23dcdbbb\">366f1a7</a>\n- <a href=\"https://github.com/blkot/Artifactory/commit/6ef50cfe8f7e0bece86e96272622448249735ccb\">6ef50cf</a>\n- <a href=\"https://github.com/blkot/Artifactory/commit/4992d009d060a175b30b5e78a3e501f125ba938f\">4992d00</a>",
+    "image": "https://my-badges.github.io/my-badges/sleepy-coder.png"
+  },
+  {
+    "id": "morning-commits",
+    "tier": 0,
+    "desc": "I commit in the morning.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/blkot/blkot/commit/a3d6a48f3c1654243a51a28b327bdc30b59fbc8a\">a3d6a48</a>\n- <a href=\"https://github.com/blkot/blkot/commit/fa44e03ea4a4cd7599c78d3cadadb5a1dd089002\">fa44e03</a>\n- <a href=\"https://github.com/blkot/blkot/commit/fcfd3905a9b60687de3d0529263b9df1e56c00f0\">fcfd390</a>\n- <a href=\"https://github.com/blkot/Artifactory/commit/887ba2bd291bddf0568b1d3e7b65236c069597ca\">887ba2b</a>\n- <a href=\"https://github.com/blkot/GalleryDownloaderServer/commit/6dfcf91d4f52169f2676d757aa01e387ed46311b\">6dfcf91</a>\n- <a href=\"https://github.com/blkot/GalleryDownloaderServer/commit/e16693fc7fc3054197961de8764bef2a7e2d7893\">e16693f</a>",
+    "image": "https://my-badges.github.io/my-badges/morning-commits.png"
+  },
+  {
+    "id": "evening-commits",
+    "tier": 0,
+    "desc": "I commit in the evening.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/blkot/itts_server/commit/faa0dfa52d5d5cd7cf768154db3b72e510494e46\">faa0dfa</a>\n- <a href=\"https://github.com/blkot/itts_server/commit/5050cff56626cd2bfdb65c298ff9283812b967ca\">5050cff</a>",
+    "image": "https://my-badges.github.io/my-badges/evening-commits.png"
+  }
+]
