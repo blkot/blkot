@@ -4,8 +4,8 @@
 
 Commits:
 
-- <a href="https://github.com/blkot/itts_frontend/commit/8275afc4394068d0c9f1e981bd1e94407e0360be">8275afc</a>: fix: persist audio progress ticker across route changes
-- <a href="https://github.com/blkot/itts_frontend/commit/3d36e7cdc3bd8d975176317bd0bc284519185f7a">3d36e7c</a>: fix: remove upload selection cap and warn on large batches
+- <a href="https://github.com/blkot/Artifactory/commit/c3b7c354e8feee3d07be97c53f95ef0a5cfefa3d">c3b7c35</a>: fix replace native file input with custom labeled button, no more thumbnail preview
+- <a href="https://github.com/blkot/Artifactory/commit/c7ffd4ddad4a2193e8b369daf4181f650e115f53">c7ffd4d</a>: fix hide browser-default file name display on file inputs
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

@@ -31,14 +31,14 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 126 times)\n2. phase (used 89 times)\n3. claude (used 67 times)\n4. co-authored-by: (used 66 times)\n5. opus (used 66 times)",
+    "body": "My favorite commit message words are:\n\n1. add (used 132 times)\n2. claude (used 95 times)\n3. co-authored-by: (used 94 times)\n4. opus (used 94 times)\n5. 4.7 (used 94 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
     "id": "fix-2",
     "tier": 1,
     "desc": "I did 2 sequential fixes.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/blkot/itts_frontend/commit/8275afc4394068d0c9f1e981bd1e94407e0360be\">8275afc</a>: fix: persist audio progress ticker across route changes\n- <a href=\"https://github.com/blkot/itts_frontend/commit/3d36e7cdc3bd8d975176317bd0bc284519185f7a\">3d36e7c</a>: fix: remove upload selection cap and warn on large batches",
+    "body": "Commits:\n\n- <a href=\"https://github.com/blkot/Artifactory/commit/c3b7c354e8feee3d07be97c53f95ef0a5cfefa3d\">c3b7c35</a>: fix replace native file input with custom labeled button, no more thumbnail preview\n- <a href=\"https://github.com/blkot/Artifactory/commit/c7ffd4ddad4a2193e8b369daf4181f650e115f53\">c7ffd4d</a>: fix hide browser-default file name display on file inputs",
     "image": "https://my-badges.github.io/my-badges/fix-2.png"
   },
   {
@@ -108,7 +108,7 @@
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/blkot/itts_server/commit/faa0dfa52d5d5cd7cf768154db3b72e510494e46\">faa0dfa</a>\n- <a href=\"https://github.com/blkot/itts_server/commit/5050cff56626cd2bfdb65c298ff9283812b967ca\">5050cff</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/blkot/Artifactory/commit/6e2c44d588d5ba1be979fb2a285c7909013027a9\">6e2c44d</a>\n- <a href=\"https://github.com/blkot/Artifactory/commit/5841a2ea130b648d55017513bc31a8185685ba08\">5841a2e</a>\n- <a href=\"https://github.com/blkot/Artifactory/commit/c3b7c354e8feee3d07be97c53f95ef0a5cfefa3d\">c3b7c35</a>\n- <a href=\"https://github.com/blkot/Artifactory/commit/c7ffd4ddad4a2193e8b369daf4181f650e115f53\">c7ffd4d</a>\n- <a href=\"https://github.com/blkot/itts_server/commit/faa0dfa52d5d5cd7cf768154db3b72e510494e46\">faa0dfa</a>\n- <a href=\"https://github.com/blkot/itts_server/commit/5050cff56626cd2bfdb65c298ff9283812b967ca\">5050cff</a>",
     "image": "https://my-badges.github.io/my-badges/evening-commits.png"
   }
 ]
