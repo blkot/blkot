@@ -31,7 +31,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 140 times)\n2. claude (used 113 times)\n3. co-authored-by: (used 112 times)\n4. opus (used 112 times)\n5. 4.7 (used 112 times)",
+    "body": "My favorite commit message words are:\n\n1. add (used 141 times)\n2. claude (used 113 times)\n3. co-authored-by: (used 112 times)\n4. opus (used 112 times)\n5. 4.7 (used 112 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -110,5 +110,12 @@
     "desc": "I commit in the evening.",
     "body": "Commits:\n\n- <a href=\"https://github.com/blkot/Artifactory/commit/6e2c44d588d5ba1be979fb2a285c7909013027a9\">6e2c44d</a>\n- <a href=\"https://github.com/blkot/Artifactory/commit/5841a2ea130b648d55017513bc31a8185685ba08\">5841a2e</a>\n- <a href=\"https://github.com/blkot/Artifactory/commit/c3b7c354e8feee3d07be97c53f95ef0a5cfefa3d\">c3b7c35</a>\n- <a href=\"https://github.com/blkot/Artifactory/commit/c7ffd4ddad4a2193e8b369daf4181f650e115f53\">c7ffd4d</a>\n- <a href=\"https://github.com/blkot/itts_server/commit/faa0dfa52d5d5cd7cf768154db3b72e510494e46\">faa0dfa</a>\n- <a href=\"https://github.com/blkot/itts_server/commit/5050cff56626cd2bfdb65c298ff9283812b967ca\">5050cff</a>",
     "image": "https://my-badges.github.io/my-badges/evening-commits.png"
+  },
+  {
+    "id": "fix-6+",
+    "tier": 6,
+    "desc": "I did 7 sequential fixes.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/blkot/Artifactory/commit/ac7d2b835b5e200c1481dceb8b71c932f2c7fd28\">ac7d2b8</a>: fix prefer external_thumbnail_url from API response for immich asset display\n- <a href=\"https://github.com/blkot/Artifactory/commit/6dac79e187069e4c9a5277009269d22ad83853d5\">6dac79e</a>: fix remove auth requirement from immich thumbnail and original endpoints for img tag support\n- <a href=\"https://github.com/blkot/Artifactory/commit/1ce6f021d936023fad9a2d918cbe90be0095d50f\">1ce6f02</a>: fix infinite recursion in getAssetDisplayUrl helper\n- <a href=\"https://github.com/blkot/Artifactory/commit/5fc1f685ee9643c5ab84e5d106a9c276b70c418f\">5fc1f68</a>: fix route immich asset display URLs through proxy in gallery, cover, and kit cards\n- <a href=\"https://github.com/blkot/Artifactory/commit/5cd774938d49041ed12129e23241c658f14f81de\">5cd7749</a>: fix relax scale validation, add inline field errors with red highlight to NewKitPage\n- <a href=\"https://github.com/blkot/Artifactory/commit/3c6b4cb92f514fc7dc1e53d3240822551e771118\">3c6b4cb</a>: fix surface field-level validation errors in NewKitPage\n- <a href=\"https://github.com/blkot/Artifactory/commit/d91e3c0c3ea2ade88c4a0ec9cddc149da61e4673\">d91e3c0</a>: fix show kit creation validation errors instead of silent fail",
+    "image": "https://my-badges.github.io/my-badges/fix-6+.png"
   }
 ]
