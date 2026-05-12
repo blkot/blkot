@@ -31,14 +31,14 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 141 times)\n2. claude (used 113 times)\n3. co-authored-by: (used 112 times)\n4. opus (used 112 times)\n5. 4.7 (used 112 times)",
+    "body": "My favorite commit message words are:\n\n1. add (used 148 times)\n2. claude (used 113 times)\n3. co-authored-by: (used 112 times)\n4. opus (used 112 times)\n5. 4.7 (used 112 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
     "id": "fix-2",
     "tier": 1,
     "desc": "I did 2 sequential fixes.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/blkot/Artifactory/commit/c3b7c354e8feee3d07be97c53f95ef0a5cfefa3d\">c3b7c35</a>: fix replace native file input with custom labeled button, no more thumbnail preview\n- <a href=\"https://github.com/blkot/Artifactory/commit/c7ffd4ddad4a2193e8b369daf4181f650e115f53\">c7ffd4d</a>: fix hide browser-default file name display on file inputs",
+    "body": "Commits:\n\n- <a href=\"https://github.com/blkot/Artifactory/commit/4e9e728544f9b45d54a25674ce963e62688bc3d8\">4e9e728</a>: fix exclude badge from file-preview-item img stretch rule\n- <a href=\"https://github.com/blkot/Artifactory/commit/2d21a2729fe7e51b56f0fc5b2aeee6f9eada9fe5\">2d21a27</a>: fix cover asset prefers server thumbnail_asset_id, never auto-overrides to first image",
     "image": "https://my-badges.github.io/my-badges/fix-2.png"
   },
   {
@@ -94,14 +94,14 @@
     "id": "sleepy-coder",
     "tier": 0,
     "desc": "I am a sleepy coder.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/blkot/Artifactory/commit/b440ac2cecdaf88cf64c34ffd3ff58a7d8ccb6a0\">b440ac2</a>\n- <a href=\"https://github.com/blkot/Artifactory/commit/e00dac02e8bb47c91d85096916ac671d2fbc50e5\">e00dac0</a>\n- <a href=\"https://github.com/blkot/Artifactory/commit/706d8251989ccccb5fbd1b9657f189c59bf8e56f\">706d825</a>\n- <a href=\"https://github.com/blkot/Artifactory/commit/366f1a7e982bd6332bce240eafefa1fe23dcdbbb\">366f1a7</a>\n- <a href=\"https://github.com/blkot/Artifactory/commit/6ef50cfe8f7e0bece86e96272622448249735ccb\">6ef50cf</a>\n- <a href=\"https://github.com/blkot/Artifactory/commit/4992d009d060a175b30b5e78a3e501f125ba938f\">4992d00</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/blkot/Artifactory/commit/03b22581cbc39f889a1dd35dc9ddaad3fcdfab86\">03b2258</a>\n- <a href=\"https://github.com/blkot/Artifactory/commit/b440ac2cecdaf88cf64c34ffd3ff58a7d8ccb6a0\">b440ac2</a>\n- <a href=\"https://github.com/blkot/Artifactory/commit/e00dac02e8bb47c91d85096916ac671d2fbc50e5\">e00dac0</a>\n- <a href=\"https://github.com/blkot/Artifactory/commit/706d8251989ccccb5fbd1b9657f189c59bf8e56f\">706d825</a>\n- <a href=\"https://github.com/blkot/Artifactory/commit/366f1a7e982bd6332bce240eafefa1fe23dcdbbb\">366f1a7</a>\n- <a href=\"https://github.com/blkot/Artifactory/commit/6ef50cfe8f7e0bece86e96272622448249735ccb\">6ef50cf</a>",
     "image": "https://my-badges.github.io/my-badges/sleepy-coder.png"
   },
   {
     "id": "morning-commits",
     "tier": 0,
     "desc": "I commit in the morning.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/blkot/blkot/commit/a3d6a48f3c1654243a51a28b327bdc30b59fbc8a\">a3d6a48</a>\n- <a href=\"https://github.com/blkot/blkot/commit/fa44e03ea4a4cd7599c78d3cadadb5a1dd089002\">fa44e03</a>\n- <a href=\"https://github.com/blkot/blkot/commit/fcfd3905a9b60687de3d0529263b9df1e56c00f0\">fcfd390</a>\n- <a href=\"https://github.com/blkot/Artifactory/commit/887ba2bd291bddf0568b1d3e7b65236c069597ca\">887ba2b</a>\n- <a href=\"https://github.com/blkot/GalleryDownloaderServer/commit/6dfcf91d4f52169f2676d757aa01e387ed46311b\">6dfcf91</a>\n- <a href=\"https://github.com/blkot/GalleryDownloaderServer/commit/e16693fc7fc3054197961de8764bef2a7e2d7893\">e16693f</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/blkot/Artifactory/commit/119305f06e10193c12ab7d5f26f62cd8e1fd1fc4\">119305f</a>\n- <a href=\"https://github.com/blkot/Artifactory/commit/d0d6a74c945aecf9485f074315fed55b7e1b6165\">d0d6a74</a>\n- <a href=\"https://github.com/blkot/Artifactory/commit/f91bc68b447312089c1f4fea1cebcd09b053da6d\">f91bc68</a>\n- <a href=\"https://github.com/blkot/Artifactory/commit/f5c1f8a55362c819287925410555435d14907812\">f5c1f8a</a>\n- <a href=\"https://github.com/blkot/Artifactory/commit/536d5191b9f7414c3a684658ef0bc12db940cbeb\">536d519</a>\n- <a href=\"https://github.com/blkot/Artifactory/commit/a29a8e6638f644635ecb126ef568f80a57b87b71\">a29a8e6</a>",
     "image": "https://my-badges.github.io/my-badges/morning-commits.png"
   },
   {
@@ -114,8 +114,15 @@
   {
     "id": "fix-6+",
     "tier": 6,
-    "desc": "I did 7 sequential fixes.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/blkot/Artifactory/commit/ac7d2b835b5e200c1481dceb8b71c932f2c7fd28\">ac7d2b8</a>: fix prefer external_thumbnail_url from API response for immich asset display\n- <a href=\"https://github.com/blkot/Artifactory/commit/6dac79e187069e4c9a5277009269d22ad83853d5\">6dac79e</a>: fix remove auth requirement from immich thumbnail and original endpoints for img tag support\n- <a href=\"https://github.com/blkot/Artifactory/commit/1ce6f021d936023fad9a2d918cbe90be0095d50f\">1ce6f02</a>: fix infinite recursion in getAssetDisplayUrl helper\n- <a href=\"https://github.com/blkot/Artifactory/commit/5fc1f685ee9643c5ab84e5d106a9c276b70c418f\">5fc1f68</a>: fix route immich asset display URLs through proxy in gallery, cover, and kit cards\n- <a href=\"https://github.com/blkot/Artifactory/commit/5cd774938d49041ed12129e23241c658f14f81de\">5cd7749</a>: fix relax scale validation, add inline field errors with red highlight to NewKitPage\n- <a href=\"https://github.com/blkot/Artifactory/commit/3c6b4cb92f514fc7dc1e53d3240822551e771118\">3c6b4cb</a>: fix surface field-level validation errors in NewKitPage\n- <a href=\"https://github.com/blkot/Artifactory/commit/d91e3c0c3ea2ade88c4a0ec9cddc149da61e4673\">d91e3c0</a>: fix show kit creation validation errors instead of silent fail",
+    "desc": "I did 9 sequential fixes.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/blkot/Artifactory/commit/940cece6c1075ea8e9fec579071d81cbec2789e8\">940cece</a>: fix use thumbnail_url from API for local assets, handle relative paths with API_BASE_URL\n- <a href=\"https://github.com/blkot/Artifactory/commit/03b22581cbc39f889a1dd35dc9ddaad3fcdfab86\">03b2258</a>: fix getAssetDisplayUrl called with object not id, add null guard\n- <a href=\"https://github.com/blkot/Artifactory/commit/ac7d2b835b5e200c1481dceb8b71c932f2c7fd28\">ac7d2b8</a>: fix prefer external_thumbnail_url from API response for immich asset display\n- <a href=\"https://github.com/blkot/Artifactory/commit/6dac79e187069e4c9a5277009269d22ad83853d5\">6dac79e</a>: fix remove auth requirement from immich thumbnail and original endpoints for img tag support\n- <a href=\"https://github.com/blkot/Artifactory/commit/1ce6f021d936023fad9a2d918cbe90be0095d50f\">1ce6f02</a>: fix infinite recursion in getAssetDisplayUrl helper\n- <a href=\"https://github.com/blkot/Artifactory/commit/5fc1f685ee9643c5ab84e5d106a9c276b70c418f\">5fc1f68</a>: fix route immich asset display URLs through proxy in gallery, cover, and kit cards\n- <a href=\"https://github.com/blkot/Artifactory/commit/5cd774938d49041ed12129e23241c658f14f81de\">5cd7749</a>: fix relax scale validation, add inline field errors with red highlight to NewKitPage\n- <a href=\"https://github.com/blkot/Artifactory/commit/3c6b4cb92f514fc7dc1e53d3240822551e771118\">3c6b4cb</a>: fix surface field-level validation errors in NewKitPage\n- <a href=\"https://github.com/blkot/Artifactory/commit/d91e3c0c3ea2ade88c4a0ec9cddc149da61e4673\">d91e3c0</a>: fix show kit creation validation errors instead of silent fail",
     "image": "https://my-badges.github.io/my-badges/fix-6+.png"
+  },
+  {
+    "id": "fix-4",
+    "tier": 3,
+    "desc": "I did 4 sequential fixes.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/blkot/Artifactory/commit/119305f06e10193c12ab7d5f26f62cd8e1fd1fc4\">119305f</a>: fix exclude badge from thumbnail stretch rule\n- <a href=\"https://github.com/blkot/Artifactory/commit/d0d6a74c945aecf9485f074315fed55b7e1b6165\">d0d6a74</a>: fix reduce badge to 1.1rem\n- <a href=\"https://github.com/blkot/Artifactory/commit/f91bc68b447312089c1f4fea1cebcd09b053da6d\">f91bc68</a>: fix update both gallery badge locations to SVG icon, increase badge size to 1.5rem\n- <a href=\"https://github.com/blkot/Artifactory/commit/f5c1f8a55362c819287925410555435d14907812\">f5c1f8a</a>: fix import Immich SVG via Vite module, not raw /src/ path",
+    "image": "https://my-badges.github.io/my-badges/fix-4.png"
   }
 ]

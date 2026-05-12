@@ -4,12 +4,12 @@
 
 Commits:
 
-- <a href="https://github.com/blkot/blkot/commit/a3d6a48f3c1654243a51a28b327bdc30b59fbc8a">a3d6a48</a>
-- <a href="https://github.com/blkot/blkot/commit/fa44e03ea4a4cd7599c78d3cadadb5a1dd089002">fa44e03</a>
-- <a href="https://github.com/blkot/blkot/commit/fcfd3905a9b60687de3d0529263b9df1e56c00f0">fcfd390</a>
-- <a href="https://github.com/blkot/Artifactory/commit/887ba2bd291bddf0568b1d3e7b65236c069597ca">887ba2b</a>
-- <a href="https://github.com/blkot/GalleryDownloaderServer/commit/6dfcf91d4f52169f2676d757aa01e387ed46311b">6dfcf91</a>
-- <a href="https://github.com/blkot/GalleryDownloaderServer/commit/e16693fc7fc3054197961de8764bef2a7e2d7893">e16693f</a>
+- <a href="https://github.com/blkot/Artifactory/commit/119305f06e10193c12ab7d5f26f62cd8e1fd1fc4">119305f</a>
+- <a href="https://github.com/blkot/Artifactory/commit/d0d6a74c945aecf9485f074315fed55b7e1b6165">d0d6a74</a>
+- <a href="https://github.com/blkot/Artifactory/commit/f91bc68b447312089c1f4fea1cebcd09b053da6d">f91bc68</a>
+- <a href="https://github.com/blkot/Artifactory/commit/f5c1f8a55362c819287925410555435d14907812">f5c1f8a</a>
+- <a href="https://github.com/blkot/Artifactory/commit/536d5191b9f7414c3a684658ef0bc12db940cbeb">536d519</a>
+- <a href="https://github.com/blkot/Artifactory/commit/a29a8e6638f644635ecb126ef568f80a57b87b71">a29a8e6</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

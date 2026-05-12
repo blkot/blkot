@@ -4,8 +4,8 @@
 
 Commits:
 
-- <a href="https://github.com/blkot/Artifactory/commit/c3b7c354e8feee3d07be97c53f95ef0a5cfefa3d">c3b7c35</a>: fix replace native file input with custom labeled button, no more thumbnail preview
-- <a href="https://github.com/blkot/Artifactory/commit/c7ffd4ddad4a2193e8b369daf4181f650e115f53">c7ffd4d</a>: fix hide browser-default file name display on file inputs
+- <a href="https://github.com/blkot/Artifactory/commit/4e9e728544f9b45d54a25674ce963e62688bc3d8">4e9e728</a>: fix exclude badge from file-preview-item img stretch rule
+- <a href="https://github.com/blkot/Artifactory/commit/2d21a2729fe7e51b56f0fc5b2aeee6f9eada9fe5">2d21a27</a>: fix cover asset prefers server thumbnail_asset_id, never auto-overrides to first image
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
