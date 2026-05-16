@@ -4,12 +4,12 @@
 
 Commits:
 
+- <a href="https://github.com/blkot/Artifactory/commit/f875798e1f0aca3d2becd39f5adfcdbb781a4c65">f875798</a>
 - <a href="https://github.com/blkot/Artifactory/commit/653ef6edae56fd2f98f89690d9807c30e5b8015b">653ef6e</a>
 - <a href="https://github.com/blkot/Artifactory/commit/03b22581cbc39f889a1dd35dc9ddaad3fcdfab86">03b2258</a>
 - <a href="https://github.com/blkot/Artifactory/commit/b440ac2cecdaf88cf64c34ffd3ff58a7d8ccb6a0">b440ac2</a>
 - <a href="https://github.com/blkot/Artifactory/commit/e00dac02e8bb47c91d85096916ac671d2fbc50e5">e00dac0</a>
 - <a href="https://github.com/blkot/Artifactory/commit/706d8251989ccccb5fbd1b9657f189c59bf8e56f">706d825</a>
-- <a href="https://github.com/blkot/Artifactory/commit/366f1a7e982bd6332bce240eafefa1fe23dcdbbb">366f1a7</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
