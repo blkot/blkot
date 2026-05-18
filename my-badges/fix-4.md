@@ -4,10 +4,10 @@
 
 Commits:
 
-- <a href="https://github.com/blkot/Artifactory/commit/119305f06e10193c12ab7d5f26f62cd8e1fd1fc4">119305f</a>: fix exclude badge from thumbnail stretch rule
-- <a href="https://github.com/blkot/Artifactory/commit/d0d6a74c945aecf9485f074315fed55b7e1b6165">d0d6a74</a>: fix reduce badge to 1.1rem
-- <a href="https://github.com/blkot/Artifactory/commit/f91bc68b447312089c1f4fea1cebcd09b053da6d">f91bc68</a>: fix update both gallery badge locations to SVG icon, increase badge size to 1.5rem
-- <a href="https://github.com/blkot/Artifactory/commit/f5c1f8a55362c819287925410555435d14907812">f5c1f8a</a>: fix import Immich SVG via Vite module, not raw /src/ path
+- <a href="https://github.com/blkot/Artifactory/commit/c4b304623c53f37250ee4d6fc1ddd40553cbb9f5">c4b3046</a>: fix disable New Architecture, fix route name to kits/[id]/index
+- <a href="https://github.com/blkot/Artifactory/commit/a305a6a1f5401c6f1cd124ca11a3d2d6ef6848df">a305a6a</a>: fix simplify root layout, remove explicit title options causing type errors
+- <a href="https://github.com/blkot/Artifactory/commit/bcd64f06224e15aa1a13d02f2a8c957dcb798feb">bcd64f0</a>: fix add root index.tsx redirecting to dashboard
+- <a href="https://github.com/blkot/Artifactory/commit/6a54901fc5285e1b10c77296c80ac21593e49902">6a54901</a>: fix add babel config, remove unused native deps causing build errors
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
