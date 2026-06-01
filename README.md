@@ -1,3 +1,61 @@
+<div align="center">
+
+# Wang Shenhao
+
+**local-first tools / automation / AI-assisted engineering**
+
+<p>
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
+  <img alt="Swift" src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white">
+  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white">
+  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB">
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
+</p>
+
+<p>
+  <a href="https://github.com/blkot?tab=repositories">Repositories</a>
+  ·
+  <a href="https://github.com/blkot?tab=stars">Interests</a>
+  ·
+  <a href="https://github.com/blkot/blkot">Profile source</a>
+</p>
+
+<p>
+  <img height="155" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=blkot&show_icons=true&theme=transparent&hide_border=true">
+  <img height="155" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blkot&layout=compact&theme=transparent&hide_border=true">
+</p>
+
+</div>
+
+---
+
+<table>
+  <tr>
+    <td width="33%" align="center">
+      <strong>building</strong><br>
+      local-first tools<br>
+      asset systems<br>
+      self-hosted utilities
+    </td>
+    <td width="33%" align="center">
+      <strong>stack</strong><br>
+      Python / TypeScript<br>
+      Swift / React<br>
+      FastAPI / Docker
+    </td>
+    <td width="33%" align="center">
+      <strong>style</strong><br>
+      small changes<br>
+      useful automation<br>
+      observable systems
+    </td>
+  </tr>
+</table>
+
+<details>
+  <summary>Badges from the build log</summary>
+
 <!-- my-badges start -->
 <a href="my-badges/a-commit.md"><img src="https://my-badges.github.io/my-badges/a-commit.png" alt="One of my commit sha starts with &quot;a&quot;." title="One of my commit sha starts with &quot;a&quot;." width="64"></a>
 <a href="my-badges/chore-commit.md"><img src="https://my-badges.github.io/my-badges/chore-commit.png" alt="I did a little housekeeping! 🧹" title="I did a little housekeeping! 🧹" width="64"></a>
@@ -19,17 +77,4 @@
 <a href="my-badges/fix-4.md"><img src="https://my-badges.github.io/my-badges/fix-4.png" alt="I did 4 sequential fixes." title="I did 4 sequential fixes." width="64"></a>
 <!-- my-badges end -->
 
-<!--
-**blkot/blkot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</details>
