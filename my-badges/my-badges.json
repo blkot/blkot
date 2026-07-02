@@ -31,7 +31,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 156 times)\n2. claude (used 127 times)\n3. co-authored-by: (used 126 times)\n4. opus (used 126 times)\n5. 4.7 (used 126 times)",
+    "body": "My favorite commit message words are:\n\n1. add (used 157 times)\n2. claude (used 127 times)\n3. co-authored-by: (used 126 times)\n4. opus (used 126 times)\n5. 4.7 (used 126 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -101,7 +101,7 @@
     "id": "morning-commits",
     "tier": 0,
     "desc": "I commit in the morning.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/blkot/Artifactory/commit/efdd90145861fed38391db02026cfe5c0772c7d0\">efdd901</a>\n- <a href=\"https://github.com/blkot/Artifactory/commit/fda39b20efcf6bbce8584699bd07eb90414bcbbc\">fda39b2</a>\n- <a href=\"https://github.com/blkot/Artifactory/commit/119305f06e10193c12ab7d5f26f62cd8e1fd1fc4\">119305f</a>\n- <a href=\"https://github.com/blkot/Artifactory/commit/d0d6a74c945aecf9485f074315fed55b7e1b6165\">d0d6a74</a>\n- <a href=\"https://github.com/blkot/Artifactory/commit/f91bc68b447312089c1f4fea1cebcd09b053da6d\">f91bc68</a>\n- <a href=\"https://github.com/blkot/Artifactory/commit/f5c1f8a55362c819287925410555435d14907812\">f5c1f8a</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/blkot/ComfyUI-tgBridge/commit/35e3546026eb9cba23b0c50aa253750c8e25a545\">35e3546</a>\n- <a href=\"https://github.com/blkot/Artifactory/commit/efdd90145861fed38391db02026cfe5c0772c7d0\">efdd901</a>\n- <a href=\"https://github.com/blkot/Artifactory/commit/fda39b20efcf6bbce8584699bd07eb90414bcbbc\">fda39b2</a>\n- <a href=\"https://github.com/blkot/Artifactory/commit/119305f06e10193c12ab7d5f26f62cd8e1fd1fc4\">119305f</a>\n- <a href=\"https://github.com/blkot/Artifactory/commit/d0d6a74c945aecf9485f074315fed55b7e1b6165\">d0d6a74</a>\n- <a href=\"https://github.com/blkot/Artifactory/commit/f91bc68b447312089c1f4fea1cebcd09b053da6d\">f91bc68</a>",
     "image": "https://my-badges.github.io/my-badges/morning-commits.png"
   },
   {

@@ -4,7 +4,7 @@
 
 My favorite commit message words are:
 
-1. add (used 156 times)
+1. add (used 157 times)
 2. claude (used 127 times)
 3. co-authored-by: (used 126 times)
 4. opus (used 126 times)
