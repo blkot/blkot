@@ -1,52 +1,10 @@
 [
   {
-    "id": "a-commit",
-    "tier": 1,
-    "desc": "One of my commit sha starts with \"a\".",
-    "body": "- <a href=\"https://github.com/blkot/RecypeRetro/commit/a947e23aa61058b3c2bfbe414c7339f872d8afb7\"><strong>a</strong>947e23aa61058b3c2bfbe414c7339f872d8afb7</a>",
-    "image": "https://my-badges.github.io/my-badges/a-commit.png"
-  },
-  {
-    "id": "chore-commit",
-    "tier": 0,
-    "desc": "I did a little housekeeping! 🧹",
-    "body": "Commits:\n\n- <a href=\"https://github.com/tmt-claudine-ai/robo-car-remote-control/commit/7b9fa07abd490338723cb96382a33a3e62f119d7\">7b9fa07</a>: chore: track example ESP32 bridge config",
-    "image": "https://my-badges.github.io/my-badges/chore-commit.png"
-  },
-  {
     "id": "covid-19",
     "tier": 0,
     "desc": "I rolled before Covid-19: Survivor of the Great TP Shortage",
     "body": "",
     "image": "https://my-badges.github.io/my-badges/covid-19.png"
-  },
-  {
-    "id": "epic-commit",
-    "tier": 0,
-    "desc": "I made an epic commit with a message over 500 chars.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/blkot/ModeruBakappu/commit/ca82e923caffab12b5ae2440ad6a9f8ed4d1a891\">ca82e92</a>\n- <a href=\"https://github.com/blkot/GalleryDownloaderServer/commit/baebe9dcf9cc93a66184c8e3864a229023a83a15\">baebe9d</a>",
-    "image": "https://my-badges.github.io/my-badges/epic-commit.png"
-  },
-  {
-    "id": "favorite-word",
-    "tier": 0,
-    "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 157 times)\n2. claude (used 127 times)\n3. co-authored-by: (used 126 times)\n4. opus (used 126 times)\n5. 4.7 (used 126 times)",
-    "image": "https://my-badges.github.io/my-badges/favorite-word.png"
-  },
-  {
-    "id": "fix-2",
-    "tier": 1,
-    "desc": "I did 2 sequential fixes.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/blkot/Artifactory/commit/4e9e728544f9b45d54a25674ce963e62688bc3d8\">4e9e728</a>: fix exclude badge from file-preview-item img stretch rule\n- <a href=\"https://github.com/blkot/Artifactory/commit/2d21a2729fe7e51b56f0fc5b2aeee6f9eada9fe5\">2d21a27</a>: fix cover asset prefers server thumbnail_asset_id, never auto-overrides to first image",
-    "image": "https://my-badges.github.io/my-badges/fix-2.png"
-  },
-  {
-    "id": "friday-13",
-    "tier": 0,
-    "desc": "I committed on Friday the 13th, One… By One…",
-    "body": "Commits:\n\n- <a href=\"https://github.com/blkot/Artifactory/commit/88278a6b3d2b55d195aa6688f335fe8254800683\">88278a6</a>\n- <a href=\"https://github.com/blkot/Artifactory/commit/471e3f8e5a7195fb9ceec22c3f07714967ba4d6b\">471e3f8</a>\n- <a href=\"https://github.com/blkot/Artifactory/commit/145a2ac296410816bf945dbca5799ed22a559890\">145a2ac</a>\n- <a href=\"https://github.com/blkot/Artifactory/commit/3ec0b5f71ae9c37508cc06a843c7d72f1dfe4f54\">3ec0b5f</a>\n- <a href=\"https://github.com/blkot/Artifactory/commit/fc93d44492bfb177443e8046a461e9f9cce53f23\">fc93d44</a>\n- <a href=\"https://github.com/blkot/Artifactory/commit/a5ab680e16696711fda048f670e25c6208de1df6\">a5ab680</a>\n- <a href=\"https://github.com/blkot/Artifactory/commit/cef1e6bc98d1a0f6b0c6f6d6c7cd800172090751\">cef1e6b</a>\n- <a href=\"https://github.com/blkot/Artifactory/commit/b5e2e0cb0f528a4373014b33d189c6b554f144ee\">b5e2e0c</a>\n- <a href=\"https://github.com/blkot/Artifactory/commit/3f4a6be96c5edbeeaf74410d24741d650d64b716\">3f4a6be</a>\n- <a href=\"https://github.com/blkot/Artifactory/commit/de847c71004b25169027a5ff179ca7942059eba8\">de847c7</a>\n- <a href=\"https://github.com/blkot/Artifactory/commit/3ba5a06edd1985a5e6533c7657c1ce57b472fa72\">3ba5a06</a>\n- <a href=\"https://github.com/blkot/Artifactory/commit/2b01a021e167ca18a1035e44291f14d7100175c8\">2b01a02</a>\n- <a href=\"https://github.com/blkot/Artifactory/commit/8022b483a0fce965e89661802096e6ac676a878e\">8022b48</a>",
-    "image": "https://my-badges.github.io/my-badges/friday-13.png"
   },
   {
     "id": "github-anniversary-5",
@@ -63,20 +21,6 @@
     "image": "https://my-badges.github.io/my-badges/github-anniversary-10.png"
   },
   {
-    "id": "mass-delete-commit",
-    "tier": 1,
-    "desc": "When I delete code, I delete a lot.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/blkot/GeojsonDataset/commit/1797012f171d303cf6ae668fd8f73f015a1b67e5\">1797012</a>",
-    "image": "https://my-badges.github.io/my-badges/mass-delete-commit.png"
-  },
-  {
-    "id": "mass-delete-commit-10k",
-    "tier": 2,
-    "desc": "When I delete code, I delete a lot.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/blkot/GeojsonDataset/commit/1797012f171d303cf6ae668fd8f73f015a1b67e5\">1797012</a>",
-    "image": "https://my-badges.github.io/my-badges/mass-delete-commit-10k.png"
-  },
-  {
     "id": "polite-coder",
     "tier": 0,
     "desc": "I am a polite coder.",
@@ -89,40 +33,5 @@
     "desc": "I have four public keys",
     "body": "",
     "image": "https://my-badges.github.io/my-badges/public-keys-4.png"
-  },
-  {
-    "id": "sleepy-coder",
-    "tier": 0,
-    "desc": "I am a sleepy coder.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/blkot/Artifactory/commit/f875798e1f0aca3d2becd39f5adfcdbb781a4c65\">f875798</a>\n- <a href=\"https://github.com/blkot/Artifactory/commit/653ef6edae56fd2f98f89690d9807c30e5b8015b\">653ef6e</a>\n- <a href=\"https://github.com/blkot/Artifactory/commit/03b22581cbc39f889a1dd35dc9ddaad3fcdfab86\">03b2258</a>\n- <a href=\"https://github.com/blkot/Artifactory/commit/b440ac2cecdaf88cf64c34ffd3ff58a7d8ccb6a0\">b440ac2</a>\n- <a href=\"https://github.com/blkot/Artifactory/commit/e00dac02e8bb47c91d85096916ac671d2fbc50e5\">e00dac0</a>\n- <a href=\"https://github.com/blkot/Artifactory/commit/706d8251989ccccb5fbd1b9657f189c59bf8e56f\">706d825</a>",
-    "image": "https://my-badges.github.io/my-badges/sleepy-coder.png"
-  },
-  {
-    "id": "morning-commits",
-    "tier": 0,
-    "desc": "I commit in the morning.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/blkot/ComfyUI-tgBridge/commit/35e3546026eb9cba23b0c50aa253750c8e25a545\">35e3546</a>\n- <a href=\"https://github.com/blkot/Artifactory/commit/efdd90145861fed38391db02026cfe5c0772c7d0\">efdd901</a>\n- <a href=\"https://github.com/blkot/Artifactory/commit/fda39b20efcf6bbce8584699bd07eb90414bcbbc\">fda39b2</a>\n- <a href=\"https://github.com/blkot/Artifactory/commit/119305f06e10193c12ab7d5f26f62cd8e1fd1fc4\">119305f</a>\n- <a href=\"https://github.com/blkot/Artifactory/commit/d0d6a74c945aecf9485f074315fed55b7e1b6165\">d0d6a74</a>\n- <a href=\"https://github.com/blkot/Artifactory/commit/f91bc68b447312089c1f4fea1cebcd09b053da6d\">f91bc68</a>",
-    "image": "https://my-badges.github.io/my-badges/morning-commits.png"
-  },
-  {
-    "id": "evening-commits",
-    "tier": 0,
-    "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/blkot/Artifactory/commit/6e2c44d588d5ba1be979fb2a285c7909013027a9\">6e2c44d</a>\n- <a href=\"https://github.com/blkot/Artifactory/commit/5841a2ea130b648d55017513bc31a8185685ba08\">5841a2e</a>\n- <a href=\"https://github.com/blkot/Artifactory/commit/c3b7c354e8feee3d07be97c53f95ef0a5cfefa3d\">c3b7c35</a>\n- <a href=\"https://github.com/blkot/Artifactory/commit/c7ffd4ddad4a2193e8b369daf4181f650e115f53\">c7ffd4d</a>\n- <a href=\"https://github.com/blkot/itts_server/commit/faa0dfa52d5d5cd7cf768154db3b72e510494e46\">faa0dfa</a>\n- <a href=\"https://github.com/blkot/itts_server/commit/5050cff56626cd2bfdb65c298ff9283812b967ca\">5050cff</a>",
-    "image": "https://my-badges.github.io/my-badges/evening-commits.png"
-  },
-  {
-    "id": "fix-6+",
-    "tier": 6,
-    "desc": "I did 9 sequential fixes.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/blkot/Artifactory/commit/940cece6c1075ea8e9fec579071d81cbec2789e8\">940cece</a>: fix use thumbnail_url from API for local assets, handle relative paths with API_BASE_URL\n- <a href=\"https://github.com/blkot/Artifactory/commit/03b22581cbc39f889a1dd35dc9ddaad3fcdfab86\">03b2258</a>: fix getAssetDisplayUrl called with object not id, add null guard\n- <a href=\"https://github.com/blkot/Artifactory/commit/ac7d2b835b5e200c1481dceb8b71c932f2c7fd28\">ac7d2b8</a>: fix prefer external_thumbnail_url from API response for immich asset display\n- <a href=\"https://github.com/blkot/Artifactory/commit/6dac79e187069e4c9a5277009269d22ad83853d5\">6dac79e</a>: fix remove auth requirement from immich thumbnail and original endpoints for img tag support\n- <a href=\"https://github.com/blkot/Artifactory/commit/1ce6f021d936023fad9a2d918cbe90be0095d50f\">1ce6f02</a>: fix infinite recursion in getAssetDisplayUrl helper\n- <a href=\"https://github.com/blkot/Artifactory/commit/5fc1f685ee9643c5ab84e5d106a9c276b70c418f\">5fc1f68</a>: fix route immich asset display URLs through proxy in gallery, cover, and kit cards\n- <a href=\"https://github.com/blkot/Artifactory/commit/5cd774938d49041ed12129e23241c658f14f81de\">5cd7749</a>: fix relax scale validation, add inline field errors with red highlight to NewKitPage\n- <a href=\"https://github.com/blkot/Artifactory/commit/3c6b4cb92f514fc7dc1e53d3240822551e771118\">3c6b4cb</a>: fix surface field-level validation errors in NewKitPage\n- <a href=\"https://github.com/blkot/Artifactory/commit/d91e3c0c3ea2ade88c4a0ec9cddc149da61e4673\">d91e3c0</a>: fix show kit creation validation errors instead of silent fail",
-    "image": "https://my-badges.github.io/my-badges/fix-6+.png"
-  },
-  {
-    "id": "fix-4",
-    "tier": 3,
-    "desc": "I did 4 sequential fixes.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/blkot/Artifactory/commit/c4b304623c53f37250ee4d6fc1ddd40553cbb9f5\">c4b3046</a>: fix disable New Architecture, fix route name to kits/[id]/index\n- <a href=\"https://github.com/blkot/Artifactory/commit/a305a6a1f5401c6f1cd124ca11a3d2d6ef6848df\">a305a6a</a>: fix simplify root layout, remove explicit title options causing type errors\n- <a href=\"https://github.com/blkot/Artifactory/commit/bcd64f06224e15aa1a13d02f2a8c957dcb798feb\">bcd64f0</a>: fix add root index.tsx redirecting to dashboard\n- <a href=\"https://github.com/blkot/Artifactory/commit/6a54901fc5285e1b10c77296c80ac21593e49902\">6a54901</a>: fix add babel config, remove unused native deps causing build errors",
-    "image": "https://my-badges.github.io/my-badges/fix-4.png"
   }
 ]
